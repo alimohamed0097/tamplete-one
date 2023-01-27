@@ -1,2 +1,1 @@
-# tamplete-one
-tamplete one
+https://alimohamed0097.github.io/template-one/
